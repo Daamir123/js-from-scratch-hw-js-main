@@ -9,4 +9,3 @@ while(sum<=20) {
  i = i + 1;
 }
 
-console.log(sum);
