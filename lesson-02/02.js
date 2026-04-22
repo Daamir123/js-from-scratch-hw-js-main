@@ -17,7 +17,7 @@ console.log('Второй бросок: ' + dice2)
 
 
 
-if (isWinningDouble) {
+if (isWinningDouble = true) {
   console.log('Выигрышный дубль!')
 } else {
   console.log('Не выигрышный дубль.')
