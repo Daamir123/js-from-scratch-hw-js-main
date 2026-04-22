@@ -16,4 +16,5 @@ if(score <= 49) {
  } else if(score >= 80 && score <=89) {
     grade = "B" 
  } else if(score >= 90 && score <=100) {
+    grade = "A"
  }
