@@ -23,7 +23,7 @@ function findCommonElements(array1, array2) {
 
     for(let i=0; i<array1.length; i++) {
     if(!includesElement(array2, array1[i])) {
-        result.push(array[i])
+        result.push(array1[i])
     }
  }
  return result
